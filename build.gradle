@@ -15,6 +15,7 @@ buildscript {
 }
 
 allprojects {
+    //serveurs ou on dépose des librairies
     repositories {
         google()
         jcenter()
